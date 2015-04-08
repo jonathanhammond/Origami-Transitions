@@ -7,16 +7,15 @@ Responsive mobile transitions for the prototyping tool Origami (by Facebook)
 
 Enjoy responsibly and build something awesome! (it would be nice if you would email me and let me know what you built with this template)
 
-![Patch Preview](./Screenshots/PatchPreview.png "Patch Preview")
+![Patch Preview](./Screenshots/code.png "Patch Preview")
 
 ## Features
 - Transition between two rendered images
 - Origami Live support
 - Responsive
 
-![iPhone 6 Screenshot](./Screenshots/iPhone6.png "iPhone 6 Screenshot")
-![iPhone 6 Landscape Screenshot](./Screenshots/iPhone6Landscape.png "iPhone 6 Landscape Screenshot")
-![iPad Screenshot](./Screenshots/iPad.png "iPad Screenshot")
+![iPhone 6 Screenshot](./Screenshots/screeniphone.png "iPhone 6 Screenshot")
+![iPhone 6 Landscape Screenshot](./Screenshots/screeniphone1.png "iPhone 6 Landscape Screenshot")
 
 ## How to Use
 - Clone this repo
