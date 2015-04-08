@@ -4,7 +4,6 @@ Origami transitions for Quartz Composer
 
 Responsive mobile transitions for the prototyping tool Origami (by Facebook)
 
-My goal, by opensourcing this project, is to make it easier and faster for designers to start with a project that requires them to use the native iOS Tab Bar.
 
 Enjoy responsibly and build something awesome! (it would be nice if you would email me and let me know what you built with this template)
 
@@ -14,9 +13,6 @@ Enjoy responsibly and build something awesome! (it would be nice if you would em
 - Transition between two rendered images
 - Origami Live support
 - Responsive
-- Customizable Labels
-- Automatic Tint for the Selected State
-- Live Image Support
 
 ![iPhone 6 Screenshot](./Screenshots/iPhone6.png "iPhone 6 Screenshot")
 ![iPhone 6 Landscape Screenshot](./Screenshots/iPhone6Landscape.png "iPhone 6 Landscape Screenshot")
