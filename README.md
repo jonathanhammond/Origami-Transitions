@@ -14,7 +14,7 @@ https://vimeo.com/124319366
 ![Patch Preview](./screenshots/code.jpg "Patch Preview")
 
 ## Features
-- Transition between two rendered images
+- Transition between two images
 - Origami Live support
 - Responsive
 - Swipe Direction locking
