@@ -17,6 +17,7 @@ https://vimeo.com/124319366
 - Transition between two rendered images
 - Origami Live support
 - Responsive
+- Swipe Direction locking
 
 ![iPhone 6 Screenshot](./screenshots/screeniphone.jpg "iPhone 6 Screenshot")
 ![iPhone 6 Landscape Screenshot](./screenshots/screeniphone1.jpg "iPhone 6 Landscape Screenshot")
