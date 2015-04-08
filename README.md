@@ -4,8 +4,11 @@ Origami transitions for Quartz Composer
 
 Responsive mobile transitions for the prototyping tool Origami (by Facebook)
 
-
+For more examples of Facebook's Origami and Quartz Composer visit my porfolio at www.justaddmusicmedia.com
 Enjoy responsibly and build something awesome! (it would be nice if you would email me and let me know what you built with this template)
+
+Video Preview 
+https://vimeo.com/124319366
 
 ![Patch Preview](./screenshots/code.jpg "Patch Preview")
 
