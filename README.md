@@ -24,7 +24,7 @@ https://vimeo.com/124319366
 
 ## How to Use
 - Clone this repo
-- Open the **.qc files**
+- Open the **.qtz files**
 - Have fun!
 
 ## Dependencies
